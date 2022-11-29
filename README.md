@@ -1,4 +1,4 @@
-# COSC 310 Assignment 3
+# COSC 310 Individual Project
 Cosc 310 Project plan for developing chatbot software
 
 The project is a chatbot that specialises in helping with mental health issues and problems, the bot is programmed to give the user a platform to connect with a therapist and communicate with them.
