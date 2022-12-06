@@ -40,4 +40,6 @@ List of 5 features that can be used as an API:
  3. A method that allows the chatbot to randomise the response to a particular text.
  4. An introduction feature where the bot takes the users name from their introduction and greets them back with their name. 
  5. Feature using porter stemmer to recgonize what mood has been input by the user and move on to the next step seamlessly. 
-
+ 
+ New API Added for Individual Project:
+ - JWiki API: Allows the Java application to query a title, description, and text of certain topics from Wikipedia and display relevant information to ensure that each user can receive the proper help they need. It may also aid in identifying the correct mood.
